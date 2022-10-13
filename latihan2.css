@@ -1,0 +1,9 @@
+body{
+    background: url(images.jpg);
+
+}
+.menu{
+    background-color: rgb(117, 244, 244);
+    text-align: center;
+    font-family : monotype corsiva ;
+}
